@@ -27,6 +27,8 @@ XXX
 
 ## How to review in 3 min
 
-1. Open XXX
-2. Open XXX
-3. Open XXX
+1. Open `content/frank_sample_content.json` to see the example input.  
+2. Run the validator and preview:  
+   ```bash
+   node scripts/validate_and_preview.js
+
