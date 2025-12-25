@@ -1,0 +1,16 @@
+{
+  "captured_from_screenshot_date": "2025-12-20",
+  "results_screen_visible_text": {
+    "adhd_heading": "ADHD (ASRS-6)",
+    "adhd_example_percent_shown": "100%",
+    "adhd_statement": "Your responses suggest ADHD-like symptoms. A full clinical evaluation is recommended.",
+    "depression_heading": "Depression (PHQ-2)",
+    "depression_example_percent_shown": "0%",
+    "depression_statement": "Below threshold. No significant depression indicators.",
+    "anxiety_heading": "Anxiety (GAD-2)",
+    "anxiety_example_percent_shown": "0%",
+    "anxiety_statement": "Below threshold. No significant anxiety indicators.",
+    "footer_full": "Remember: This screener is for educational purposes only. It doesn't diagnose conditions. If you're in crisis, call 988 (US) or your local emergency number. If you're concerned about your mental health, seeing a licensed therapist who specializes in ADHD can help. For free advice on how to find a therapist, coach, or support group, email help@adhdscreener.io. You got this."
+  },
+  "notes": "Footer text updated to include full message."
+}
