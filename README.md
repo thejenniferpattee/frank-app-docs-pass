@@ -3,7 +3,7 @@
 
 **What it is:**
 
-A data-only repo for FRANK APP CONTENT: XXX
+The product code. UI, routing, local storage behavior, scoring logic, and how the app loads content. 
 
 **What’s real vs planned:**
 
