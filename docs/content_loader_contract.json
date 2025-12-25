@@ -1,0 +1,7 @@
+{
+"contract_version": "0.1.0",
+"expected_content_repo": "frank-content",
+"content_entrypoint": "content/bundle.json",
+"required_keys": ["ui_copy", "screen_flow", "instruments", "psychoeducation"],
+"notes": "The app must be able to load content without hardcoding item text in the UI."
+}
