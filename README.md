@@ -23,8 +23,7 @@ This repo stores FRANK APP content as data so it stays editable and auditable wi
 
 ## Status
 
-Scaffolding + contracts in place.  
-This repo defines the expected data contracts and review flow for Frank app content. A working reference implementation (with validator and preview) lives in the `frank-content` repo.
+Scaffolding + contracts in place. This repo defines the expected data contracts and review flow for Frank app content. A working reference implementation (with validator and preview) lives in the `frank-content` repo.
 
 
 ## How to review in 3 min
