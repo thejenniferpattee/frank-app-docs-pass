@@ -1,0 +1,23 @@
+{
+"contract_version": "0.1.0",
+"scores": [
+{
+"id": "adhd_asrs6_percent",
+"display_name": "ADHD (ASRS-6)",
+"display_format": "percent",
+"notes": "Exact scoring algorithm should be documented here to match implementation. Do not claim diagnosis."
+},
+{
+"id": "depression_phq2_percent",
+"display_name": "Depression (PHQ-2)",
+"display_format": "percent",
+"notes": "Exact scoring algorithm should be documented here to match implementation."
+},
+{
+"id": "anxiety_gad2_percent",
+"display_name": "Anxiety (GAD-2)",
+"display_format": "percent",
+"notes": "Exact scoring algorithm should be documented here to match implementation."
+}
+]
+}
