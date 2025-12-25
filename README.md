@@ -28,8 +28,10 @@ Scaffolding + contracts in place. This repo defines the expected data contracts 
 
 ## How to review in 3 min
 
-1. Open `content/frank_sample_content.json` to see the example input.  
-2. Run the validator and preview:  
-   ```bash
-   node scripts/validate_and_preview.js
+1. Open the `frank-content` repo.
+2. Review `content/frank_sample_content.json` to see example app input.
+3. Run the demo script to generate a rendered preview:
+   ./demo.sh
+4. Open `preview.md` to see the output a user would experience.
+
 
